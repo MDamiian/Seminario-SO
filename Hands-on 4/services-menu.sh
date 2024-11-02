@@ -4,7 +4,7 @@ showMenu(){
     echo "1) Mostrar contenido de un fichero"
     echo "2) Crear un archivo de texto"
     echo "3) Comparar dos archivos"
-    echo "4) Buscar errores recursivamente en /var/log/"
+    echo "4) Buscar cadena de texto en archivo"
     echo "5) Contar el numero de lineas de un archivo de texto"
     echo "0) Salir"
 }
